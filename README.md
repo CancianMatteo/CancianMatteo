@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CancianMatteo
 - 👀 I’m interested in developement of programs in C, C++, Java, Python...
-- 🌱 I’m currently learning many things, the main languages that I'm learning are Python and unfortunately Scheme.
+- 🌱 I’m currently learning many things, the main languages that I'm learning are Python and Scheme.
 - 📫 How to reach me: my email is cancian2003@gmail.com
 
 <!---
