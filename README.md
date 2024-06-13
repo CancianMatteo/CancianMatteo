@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CancianMatteo
-- 👀 I’m interested in developement of programs in C, C++, Java, JavaScript, Python...
+- 👀 I’m interested in developement of programs in C, C++, Java, JavaScript, Python, (I've also used R for datascience)...
 - 📱 I'm also interested in mobile and web app developement (HTML, CSS, JS, Android-Java)...
-- 🌱 I’m currently learning many things as a student, the main languages that I'm learning are R, Python and Scheme.
+- 🌱 I’m currently learning many things as a student, actually my focus is on CyberSecurity, especially Network, OSINT and Web.
 - 🧑🏻‍💻 I've worked (for study purpose) with my schoolmates on a few project, some of whom are: 
                       NoteShare (simple note writing/sharing app done entirely with Java);
                       RistaPick (job finding app for catering for which we used Dart, JS, NodeJS, Express, MongoDB and Java).
